@@ -1,4 +1,4 @@
-                                        https://shortcutstudent.netlify.app/
+Website: https://shortcutstudent.netlify.app/
 
 
 
